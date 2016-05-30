@@ -7,4 +7,4 @@ testi123
 
 fasdfasdfasefaswefasefasf
 
-MANUAL
+MANUALasdfasdf
