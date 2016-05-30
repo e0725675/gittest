@@ -6,3 +6,5 @@ testing
 testi123
 
 fasdfasdfasefaswefasefasf
+
+MANUAL
